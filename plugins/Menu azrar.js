@@ -39,8 +39,8 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
 ╯───────────────────⟢ـ
 > ˼🤖˹↜ الــبــوت↶
 ╮───────────────────⟢ـ
-┆⚙️ ↜اسـم الـبـوت↶﹝𝐅𝐋𝐀𝐒𝐇﹞
-┆🪄 ↜الـمـطـور ↶﹝𝐅𝐋𝐀𝐒𝐇_𝐓𝐄𝐀𝐌﹞
+┆⚙️ ↜اسـم الـبـوت↶﹝لينو تشان﹞
+┆🪄 ↜الـمـطـور ↶﹝Dazai🖤﹞
 ┆📌 ↜الـتـشـغـيـل ↶﹝${uptime}﹞
 ┆🔖 ↜الــمــســتـخـدمـيـن ↶﹝${rtotalreg}﹞
 ╯───────────────────⟢ـ
@@ -57,7 +57,7 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
                                     title: '⌈🛡╎الــقــوائـــم╎🛡⌋',
                                     sections: [
                                         {
-                                            title: 'مــرحـ🛡ـبــا بــك فـي مــ☑هــام فلاش بـ🤖ـوت',
+                                            title: 'مــرحـ🛡ـبــا بــك فـي مــ☑هــام لينو بـ🤖ـوت',
                                             highlight_label: '𝐍𝐀𝐑𝐔𝐓𝐎 & 𝐙𝐀𝐂𝐊',
                                             rows: [
                                                 {
