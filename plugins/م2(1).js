@@ -25,20 +25,20 @@ let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `⎔⋅• ━ ╼╃ ⌬〔﷽〕⌬ ╄╾ ━ •⋅⎔
-> TheFlash-Bot-MD
+> Lino Chan
 > 〔القـسـم الاسـلامـي┊ ˼‏ 🕋˹ 〕↶
-*⎔⋅ ╼╃ ⊰ •﹝⚡﹞• ⊱ ╄╾ ⋅⎔*
-           *فلاش بــ🤖ــوت*
-*⎔⋅ ╼╃ ⊰ •﹝⚡﹞• ⊱ ╄╾ ⋅⎔*
+*⎔⋅ ╼╃ ⊰ •﹝⚕️﹞• ⊱ ╄╾ ⋅⎔*
+           *لينو بــ🤖ــوت*
+*⎔⋅ ╼╃ ⊰ •﹝⚕️﹞• ⊱ ╄╾ ⋅⎔*
 > 🕋.اذان
 > 🕋.حديث
 > 🕋.قران
 > 🕋.الله
 > 🕋.ايات
-*⎔⋅ ╼╃ ⊰ •﹝⚡﹞• ⊱ ╄╾ ⋅⎔*
+*⎔⋅ ╼╃ ⊰ •﹝⚕️﹞• ⊱ ╄╾ ⋅⎔*
 *~⌬ تــ✍︎ــوقــيــع ↡~*🖋️
-*TheFlash-Bot-MD*
-*⎔⋅ ╼╃ ⊰ •﹝⚡﹞• ⊱ ╄╾ ⋅⎔*`.trim()
+*Dazai🖤*
+*⎔⋅ ╼╃ ⊰ •﹝⚕️﹞• ⊱ ╄╾ ⋅⎔*`.trim()
    const _0x3c7cab = _0x5a1d;
 
         function _0x5a1d(_0x1b92fa, _0x42ca62) {
@@ -52,7 +52,7 @@ let str = `⎔⋅• ━ ╼╃ ⌬〔﷽〕⌬ ╄╾ ━ •⋅⎔
         }
 
         function _0x42ca() {
-            const _0xe1e20e = ['2409147cMTtvV', '70SxKSwY', 'trim', '2708027tOnEUS', '831853GQAjyu', '6ZrUjVF', 'Respect-team', '406070MLYaeB', 'https://whatsapp.com/channel/0029ValRCUIFi8xmK9xBOr0I', '4YbGMkZ', '840496IPJeXP', '322835aPaRGc', 'VIDEO', '3639410cLSfPv', 'sender', '9LtUyCF'];
+            const _0xe1e20e = ['2409147cMTtvV', '70SxKSwY', 'trim', '2708027tOnEUS', '831853GQAjyu', '6ZrUjVF', 'Respect-team', '406070MLYaeB', 'https://whatsapp.com/channel/0029VapxAcz4SpkEe0XN6X3V', '4YbGMkZ', '840496IPJeXP', '322835aPaRGc', 'VIDEO', '3639410cLSfPv', 'sender', '9LtUyCF'];
             _0x42ca = function () {
                 return _0xe1e20e;
             };
